@@ -409,7 +409,7 @@ nav .fas{
         position: fixed;
         top: 0;
         right: -350px;
-        width: 350px;
+        width: 300px;
         height: 100vh;
         padding-top: 50px;
         z-index: 2;
